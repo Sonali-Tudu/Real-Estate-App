@@ -17,6 +17,12 @@ The Real Estate App is a full-stack web application built with the MERN stack (M
 - **Favorites**: Save and manage favorite properties.
 - **Contact Agents**: Send inquiries directly to property agents.
 
+## Authentication
+Authentication is handled using JWT. Upon successful login, a JWT token is stored in a cookie. This token is used to authenticate requests to protected routes.
+
+## State Management
+The Context API is used for managing global state in the React application. It provides a way to share state across components without passing props manually at every level.
+
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
