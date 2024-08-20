@@ -1,4 +1,4 @@
-# Real Estate App using MERN Stack
+# End-to-End Real Estate App using MERN Stack
 
 ## Project Overview
 The Real Estate App is a full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) that allows users to browse, search, and filter real estate listings. It includes features for users to view property details, manage their favorite properties, and contact property agents.
